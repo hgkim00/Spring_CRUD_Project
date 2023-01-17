@@ -1,4 +1,4 @@
-# Project5_Spring_CRUD_Project
+# Spring_CRUD_Project
 http://walab.handong.edu:8080/p2_21900215_2/
 
 ## 목록 보기
